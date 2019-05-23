@@ -1,0 +1,29 @@
+html{
+    /*整体选择字体，字号和背景色*/
+    font-family: Times, serif;
+    font-size:20px;
+    background-color: rgb(190, 186, 117);
+}
+body{
+background-color: rgb(202, 153, 104);
+margin: 0 50px;
+padding: 0 50px 10px 50px;
+border: 5px solid black;
+}
+h1{
+    font-size: 60px;
+    margin:20px;
+    color:red;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+}
+
+p,li{
+    line-height: 1.2;
+    letter-spacing: 2px; 
+}
+
+img{
+    display:block;
+    margin: 0 auto;
+}
