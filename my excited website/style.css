@@ -1,0 +1,100 @@
+html{
+
+  background-color: black;
+}
+body {
+    background-color: #fff;
+    color: #333;
+    margin: 3em auto;
+    max-width:1000px;
+    width:100%; 
+    font: 1.3em / 1.2 Arial, Helvetica, sans-serif;
+  }
+
+  img {
+      max-width: 100%;
+      display: block;
+  }
+  
+  
+  nav {
+    background-color: #000;
+    padding: 0.5em 0;
+    position:sticky;
+    top:0;
+  }
+  
+  nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li{
+    float:left;
+    width:18.7%;
+    padding-left: 1%;
+
+  }
+  nav a{
+
+    color: #fff;
+    text-decoration: none;
+    padding: .5em 1em;
+    
+  }
+
+  nav ul p{
+    clear:both;
+    display: block;
+  }
+  .logo {
+    font-size: 200%;
+    padding: 50px 20px;
+    margin: 0 auto;
+    
+  }
+  
+  .grid {
+  background-color: #fff;
+  padding
+  border
+  }
+  
+  article{
+    float:left;
+    width:100%;
+    max-width: 600px;
+    padding-left: 2em;
+  }
+  
+  article p{
+    
+  }
+  aside{
+    float:right;
+    width:220px;
+    
+  }
+  aside ul li{
+     float:left;
+     width:100px;
+     margin-right: 0.2em;
+     margin-bottom: 0.2em;
+
+  }
+  .grid div{
+    display: block;
+    clear:both;
+  }
+  .photos {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .feature {
+      width: 200px;
+      float:left;
+      margin-right: 1em;
+  }
